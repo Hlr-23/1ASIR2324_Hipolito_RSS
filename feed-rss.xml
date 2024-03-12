@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>My Blog</title>
+  <link>https://www.example.com/</link>
+  <description>Este es mi blog personal .</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+
+  <item>
+    <title>Blog Entry 1</title>
+    <link>https://www.example.com/blog-entry-1.html</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
+<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+<guid>https://www.example.com/blog-entry-1.html</guid>
+</item>
+
+  <item>
+    <title>Blog Entry 2</title>
+    <link>https://www.example.com/blog-entry-2.html</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
+    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-2.html</guid>
+  </item>
+  <item>
+    <title>Blog Entry 3</title>
+    <link>https://www.example.com/blog-entry-3.html</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur </description>
+    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-3.html</guid>
+  </item>
+</channel>
+</rss>
+
+
